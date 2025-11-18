@@ -78,9 +78,10 @@ $$S_p = \frac{R_p - R_f}{\sigma_p}$$
 
 **Contact**
 #**Candidate: Shahid Mulani** 
-#**Role: Junior Data Scientist Applicant**
+
 
 **Ready to drive data-driven decisions at Prime Trade AI.**
+
 
 
 
