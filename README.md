@@ -2,7 +2,7 @@
 
 ### *Uncovering Alpha Through Sentiment Analysis & Statistical Modeling*
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shahid-task-trader-behavior-insights.streamlit.app/)
+<img width="1858" height="796" alt="Screenshot 2025-11-18 184907" src="https://github.com/user-attachments/assets/b67b7a23-57de-466a-9c0f-50d8fe0f50f6" />
 
 ---
 
@@ -14,7 +14,8 @@
 
 **The Verdict:** The analysis uncovered a statistically significant **"Momentum Anomaly."** Contrary to the popular "contrarian" investing wisdom, this specific trading cohort maximizes Alpha during **"Extreme Greed"** while suffering capital decay during **"Extreme Fear."**
 
-👉 **[View the Live Dashboard](https://shahid-task-trader-behavior-insights.streamlit.app/)**
+<img width="1814" height="517" alt="Screenshot 2025-11-18 184923" src="https://github.com/user-attachments/assets/5e054292-fb77-4f80-a898-33dfc9164d8e" />
+
 
 ---
 
@@ -86,3 +87,4 @@ git clone [https://github.com/your-username/trader-insights.git](https://github.
 **Candidate: Shahid Mulani Role: Junior Data Scientist Applicant**
 
 Ready to drive data-driven decisions at Prime Trade AI.
+
