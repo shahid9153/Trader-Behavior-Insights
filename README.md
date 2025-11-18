@@ -76,15 +76,9 @@ $$S_p = \frac{R_p - R_f}{\sigma_p}$$
 
 ---
 
-## 🚀 Local Installation
-
-If you wish to run the analysis engine locally:
-
-**1. Clone the Repository**
-git clone [https://github.com/your-username/trader-insights.git](https://github.com/your-username/trader-insights.git)
-
 **Contact**
 **Candidate: Shahid Mulani Role: Junior Data Scientist Applicant**
 
-Ready to drive data-driven decisions at Prime Trade AI.
+**Ready to drive data-driven decisions at Prime Trade AI.**
+
 
