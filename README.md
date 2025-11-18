@@ -3,9 +3,6 @@
 ### *Uncovering Alpha Through Sentiment Analysis & Statistical Modeling*
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shahid-task-trader-behavior-insights.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-Statistical_Inference-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge)
 
 ---
 
@@ -83,8 +80,9 @@ $$S_p = \frac{R_p - R_f}{\sigma_p}$$
 If you wish to run the analysis engine locally:
 
 **1. Clone the Repository**
-```bash
 git clone [https://github.com/your-username/trader-insights.git](https://github.com/your-username/trader-insights.git)
 
+**Contact**
+**Candidate: Shahid Mulani Role: Junior Data Scientist Applicant**
 
-
+Ready to drive data-driven decisions at Prime Trade AI.
